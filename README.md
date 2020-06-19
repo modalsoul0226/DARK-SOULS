@@ -1,5 +1,5 @@
 # DARK-SOULS
 <div align='center'>
-  <img src='assets/ds-sun.jpg'>
+  <img width=700 src='assets/ds-sun.jpg'>
 </div>
 ---
